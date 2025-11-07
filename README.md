@@ -10,6 +10,10 @@ The work is divided into four main components.
   Comparison of QMC and standard Monte Carlo approaches for pricing geometric Asian options.  
   Various geometric Brownian motion path constructions (standard, PCA, and Brownian Bridge) were tested for convergence speed and computational cost.
 
+<p align="center">
+<img src="/outputs/output_3_1.png" width="250" height="250"><img src="/outputs/output_3_1.png" width="250" height="250"><img src="/outputs/output_3_1.png" width="250" height="250">
+</p>
+
   - **Variance Reduction for Arithmetic Options:**  
   Implementation of antithetic variates and geometric control variates to improve pricing stability and reduce estimator noise when simulating arithmetic Asian options.
 
