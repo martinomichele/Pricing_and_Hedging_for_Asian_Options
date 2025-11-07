@@ -1,5 +1,7 @@
 # Pricing and Hedging for Asian Options
 
+Project for Quantitative Finance Bootcamp at the Erdős Institute, Fall 2025.
+
 ### **Overview**
 This project explores the application of quasi–Monte Carlo (QMC) methods to option pricing and hedging in the Black–Scholes framework.  
 The study focuses on Asian call options, both geometric and arithmetic, and evaluates numerical efficiency, variance reduction, and dynamic hedging performance.  
