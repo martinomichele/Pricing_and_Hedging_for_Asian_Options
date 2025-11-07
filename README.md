@@ -11,19 +11,39 @@ The work is divided into four main components.
   Various geometric Brownian motion path constructions (standard, PCA, and Brownian Bridge) were tested for convergence speed and computational cost.
 
 <p align="center">
-<img src="/Otputs/output_3_1.png" width="250" height="250"><img src="/Otputs/output_3_1.png" width="250" height="250"><img src="/Otputs/output_3_1.png" width="250" height="250">
+<img src="/Outputs/output_3_1.png" width="400" height="400"><img src="/Outputs/output_3_2.png" width="400" height="400">
+</p>
+
+<p align="center">
+<img src="/Outputs/output_3_3.png" width="400" height="400"><img src="/Outputs/output_3_4.png" width="400" height="400">
 </p>
 
   - **Variance Reduction for Arithmetic Options:**  
   Implementation of antithetic variates and geometric control variates to improve pricing stability and reduce estimator noise when simulating arithmetic Asian options.
 
+<p align="center">
+<img src="/Outputs/output_11.png" width="400" height="400"><img src="/Outputs/output_10.png" width="400" height="400">
+</p>
+
   - **Dynamic Delta–Hedging Simulations:**  
   Analysis of hedged and unhedged strategies for both option types.  
   The geometric case was handled analytically using closed-form price and conditional deltas, while the arithmetic case relied on RQMC estimates combined with variance reduction techniques for pricing and initial delta and use of geometric proxies for later deltas to improve computational cost.
 
+<p align="center">
+<img src="/Outputs/output_2_3.png" width="400" height="400"><img src="/Outputs/output_2_4.png" width="400" height="400">
+</p>
+
+<p align="center">
+<img src="/Outputs/output_2_1.png" width="400" height="400"><img src="/Outputs/output_2_2.png" width="400" height="400">
+</p>
+
   - **Real–World Data Application:**
   Extension of the methodology to historical market data using the $\texttt{yfinance}$ library.  
   Rolling volatilities were used for pricing and hedging, assuming a zero interest rate for simplicity.
+
+<p align="center">
+<img src="/Outputs/Screenshot 2025-11-05 at 10.15.19 PM" width="400" height="400">
+</p>
 
 ### **Key Findings**
 
