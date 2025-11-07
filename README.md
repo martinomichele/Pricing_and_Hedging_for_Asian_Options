@@ -42,7 +42,7 @@ The work is divided into four main components.
   Rolling volatilities were used for pricing and hedging, assuming a zero interest rate for simplicity.
 
 <p align="center">
-<img src="/Outputs/Screenshot 2025-11-05 at 10.15.19 PM" width="400" height="400">
+<img src="/Outputs/Output_4.png" width="600" height="600">
 </p>
 
 ### **Key Findings**
