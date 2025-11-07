@@ -3,7 +3,7 @@
 ### **Overview**
 This project explores the application of quasi–Monte Carlo (QMC) methods to option pricing and hedging in the Black–Scholes framework.  
 The study focuses on Asian call options, both geometric and arithmetic, and evaluates numerical efficiency, variance reduction, and dynamic hedging performance.  
-The work is divided into four main components.
+The work is divided into four main components/notebooks.
 
 ### **Project Components**
   - **Quasi–Monte Carlo Methods and GBM Constructions:**  
