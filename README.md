@@ -11,7 +11,7 @@ The work is divided into four main components.
   Various geometric Brownian motion path constructions (standard, PCA, and Brownian Bridge) were tested for convergence speed and computational cost.
 
 <p align="center">
-<img src="/outputs/output_3_1.png" width="250" height="250"><img src="/outputs/output_3_1.png" width="250" height="250"><img src="/outputs/output_3_1.png" width="250" height="250">
+<img src="/Otputs/output_3_1.png" width="250" height="250"><img src="/Otputs/output_3_1.png" width="250" height="250"><img src="/Otputs/output_3_1.png" width="250" height="250">
 </p>
 
   - **Variance Reduction for Arithmetic Options:**  
